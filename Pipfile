@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==2.0.1"
+werkzeug = "==2.0.1"
+Flask-Migrate = "==3.1.0"
+Flask-CORS = "==3.0.10"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
