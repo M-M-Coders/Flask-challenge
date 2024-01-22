@@ -1,6 +1,6 @@
 Flask Code Challenge - Pizza Restaurants
 
-[Alt text](image.png)
+![Alt text](client/image.png)
 
 Models
 You need to create the following relationships:
